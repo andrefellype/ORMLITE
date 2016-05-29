@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">APP_SQLITE</string>
-    <string name="title_activity_main">MainActivity</string>
-    <string name="title_activity_cidade">CidadeActivity</string>
-</resources>
